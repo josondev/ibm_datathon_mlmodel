@@ -22,7 +22,7 @@ With the increasing use of AI-generated content, distinguishing between AI-gener
 - Preprocessing and vectorizing text data using **TfidfVectorizer**.
 - Implementation of multiple classifiers including:
   - **LightGBM** (Light Gradient Boosting Machine)
-  - XGBoosthe
+  - XGBoost
 - Hyperparameter tuning using **GridSearchCV** to find the best-performing model.
 - Cross-validation and model evaluation using various metrics like accuracy and classification report.
 - Handling imbalanced datasets using class weighting techniques.
