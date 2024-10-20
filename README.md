@@ -31,7 +31,7 @@ With the increasing use of AI-generated content, distinguishing between AI-gener
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ai-vs-human-text-classification.git
+   git clone https://github.com/josondev/ai-vs-human-text-classification.git
    cd ai-vs-human-text-classification
    ```
 
