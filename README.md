@@ -50,8 +50,6 @@ Multiple machine learning models are trained on the preprocessed data:
 1. **LightGBM**: A fast, efficient gradient boosting framework used for text classification.
 
 Key techniques:
-- Hyperparameter tuning using **GridSearchCV** to optimize model performance.
-- Cross-validation to ensure generalization across the data.
 - Early stopping for LightGBM to prevent overfitting.
 
 ## Evaluation
