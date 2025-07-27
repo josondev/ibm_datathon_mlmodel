@@ -23,8 +23,7 @@ With the increasing use of AI-generated content, distinguishing between AI-gener
 - Implementation of multiple classifiers including:
   - **LightGBM** (Light Gradient Boosting Machine)
   - XGBoost
-- Hyperparameter tuning using **GridSearchCV** to find the best-performing model.
-- Cross-validation and model evaluation using various metrics like accuracy and classification report.
+- model evaluation using various metrics like accuracy and classification report.
 - Handling imbalanced datasets using class weighting techniques.
 
 ## Installation
@@ -49,7 +48,6 @@ The dataset used consists of pre-labeled text samples classified as either **AI-
 ## Model Training
 Multiple machine learning models are trained on the preprocessed data:
 1. **LightGBM**: A fast, efficient gradient boosting framework used for text classification.
-2. **XGBoost**: Additional boosting models to compare performance.
 
 Key techniques:
 - Hyperparameter tuning using **GridSearchCV** to optimize model performance.
